@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend **Node.js, Express.js, MongoDB, Moongose, etc.**
 
-- 👨‍💻 All of my projects are available at [in progress.](in progress.)
+- 👨‍💻 All of my projects are available at in progress.
 
 - 📫 How to reach me **mozasgeronimo@gmail.com**
 
