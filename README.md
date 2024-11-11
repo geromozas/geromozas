@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning java in Oracle.
 
-- 👨‍💻 All of my projects are available at in https://geronimo-mozas.vercel.app/.
+- 👨‍💻 All of my projects are available in https://geronimo-mozas.vercel.app/.
 
 - 📫 How to reach me **mozasgeronimo@gmail.com**
 
