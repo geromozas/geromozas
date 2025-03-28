@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geromozas&label=Profile%20views&color=0e75b6&style=flat" alt="geromozas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geromozas" alt="geromozas" /></a> </p>
-
 - 🌱 I'm currently honing my frontend skills.
 
 - 👨‍💻 All of my projects are available in https://geronimo-mozas.vercel.app/.
